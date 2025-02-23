@@ -1,0 +1,9 @@
+# Todo:
+- [ ] Find out why dashboard doesn't accept the authState  
+- [ ] Learn about Vue Router to attach auth items  
+- [ ] CRUD article if author role  
+- [ ] CRUD author if admin role  
+- [ ] Add image to article and author
+- [ ] Add comments to article
+- [ ] Add views to article
+- [ ] Add tags to articles and authors
